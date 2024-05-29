@@ -1,0 +1,13 @@
+body {
+    font-family: 'SourceSansPro', Helvetica, sans-serif;
+}
+
+.recipe-list {
+    font-size: 1.125rem;
+}
+
+.recipe-item {
+    padding: 8px;
+}
+
+/* color, background color */
